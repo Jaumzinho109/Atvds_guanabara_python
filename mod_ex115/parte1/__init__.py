@@ -6,14 +6,14 @@ def opcoes():
             if opcao == 1:
                 print('_' * 30)
                 print()
-                print('Opção 1')
+                print('Pessoas Cadastradas')
                 print('_' * 30)
                 return opcao
                 continue
             elif opcao == 2:
                 print('_' * 30)
                 print()
-                print('Opção 2')
+                print('Novo cadastro')
                 print('_' * 30)
                 return opcao
                 continue
